@@ -1,0 +1,33 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio/Visual Studio Code generated
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity Package Manager
+/Packages/
+/packages-lock.json
+
+#Not wanted recs
+Assets/Images/Ripoff/
+
